@@ -135,10 +135,7 @@ The main objective of FarmFlow is to empower farmers with AI-driven insights, re
 - Improved ML model accuracy.
 - Mobile application integration.
 
-## 👩‍💻 Contributors
 
-Developed as a hackathon project.
 
-## 📜 License
 
-This project is developed for educational and hackathon purposes.
+
