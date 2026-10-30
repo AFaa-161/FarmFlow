@@ -1,0 +1,12 @@
+{
+  "class_names": [
+    "fresh",
+    "stale"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "threshold": 0.5,
+  "model_type": "MobileNetV2 transfer learning"
+}
